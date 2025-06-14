@@ -78,5 +78,6 @@ This project offers a detailed Exploratory Data Analysis (EDA) and visualization
 ### 👩‍💻 **Author**
 
 **Khushboo Verma**
+
 This project showcases the use of Python-based EDA, geospatial visualization, and health data analysis for making informed, data-driven decisions during a public health crisis.
 
